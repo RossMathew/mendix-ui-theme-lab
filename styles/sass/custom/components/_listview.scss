@@ -13,7 +13,12 @@
 		/* Load more button */
 	}
 	.mx-listview-list {
-		
+		.mx-listview-empty {
+			font-size: 16px;
+			color: $font-base-color;
+			border-style: none;
+			background-color: transparent;
+		}
 	}
 	.mx-listview-item {
 		/* Styles here */
