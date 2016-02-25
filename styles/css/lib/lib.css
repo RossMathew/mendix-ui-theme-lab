@@ -936,7 +936,7 @@ textarea.form-control {
   text-overflow: ellipsis;
 }
 .mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr.selected td, .mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr.selected:hover td {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
   color: #54565B;
 }
 .mx-datagrid .mx-datagrid-body-table .mx-datagrid-foot > tr > th {
@@ -1001,10 +1001,10 @@ textarea.form-control {
    Default Mendix Datagrid Widget with hover
 ========================================================================== */
 .datagrid-hover.mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr:hover td, .mx-datagrid.multilevel-grid .mx-datagrid-body-table .mx-datagrid-body tr:hover td {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .datagrid-hover.mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr.selected:hover td, .mx-datagrid.multilevel-grid .mx-datagrid-body-table .mx-datagrid-body tr.selected:hover td {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 
 /* ==========================================================================
@@ -1821,10 +1821,10 @@ img.img-auto,
   background-color: #FFF;
 }
 .mx-listview .mx-listview-item.selected {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .mx-listview .mx-listview-item.selected:hover {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .mx-listview .mx-listview-item:nth-child(2n+1) {
   background-color: #FFF;
@@ -1840,7 +1840,7 @@ img.img-auto,
    Default Mendix Listview Widget with hover
 ========================================================================== */
 .listview-hover.mx-listview .mx-listview-item:hover, .mx-listview.multilevel-list .mx-listview-item:hover, .listview-hover.mx-listview .mx-listview-item:active, .mx-listview.multilevel-list .mx-listview-item:active {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 
 /* ==========================================================================
@@ -2718,7 +2718,7 @@ table.table-fixed {
   background-color: transparent;
 }
 .mx-templategrid .mx-templategrid-item.selected {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .mx-templategrid .mx-layoutgrid {
   padding-top: 0 !important;
@@ -2731,13 +2731,13 @@ table.table-fixed {
    Default Mendix Templategrid Widget Hover
 ========================================================================== */
 .templategrid-hover.mx-templategrid .mx-templategrid-item:hover {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .templategrid-hover.mx-templategrid .mx-templategrid-item.selected {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 .templategrid-hover.mx-templategrid .mx-templategrid-item.selected:hover {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 
 /* ==========================================================================
@@ -3495,7 +3495,7 @@ h1, h2, h3, h4, h5, h6,
   color: #FFF;
 }
 .masterdetail-listview .mx-listview .mx-listview-item.selected:hover, .masterdetail-listview .mx-listview .mx-listview-item.selected:active {
-  background-color: #faf9f9 !important;
+  background-color: #eee !important;
 }
 
 /* ==========================================================================

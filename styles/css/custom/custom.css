@@ -205,6 +205,12 @@ a:hover {
 .mx-listview > .mx-button {
   /* Load more button */
 }
+.mx-listview .mx-listview-list .mx-listview-empty {
+  font-size: 16px;
+  color: #54565B;
+  border-style: none;
+  background-color: transparent;
+}
 .mx-listview .mx-listview-item {
   /* Styles here */
 }
@@ -919,7 +925,8 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .formblock-header {
-  /* Styles here */
+  font-weight: 500;
+  color: #323232;
 }
 
 /* ==========================================================================
