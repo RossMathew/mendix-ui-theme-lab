@@ -218,7 +218,7 @@ a:hover {
   /* Styles here */
 }
 .mx-listview .mx-listview-item.selected {
-  /* Styles here */
+  color: #333;
 }
 .mx-listview .mx-listview-item.selected:hover {
   /* Styles here */
@@ -927,6 +927,13 @@ h1, h2, h3, h4, h5, h6,
 .formblock-header {
   font-weight: 500;
   color: #323232;
+}
+
+.masterdetail-listview .mx-listview .mx-listview-item.selected {
+  color: #333;
+}
+.masterdetail-listview .mx-listview .mx-listview-item.selected .mx-link {
+  color: #333;
 }
 
 /* ==========================================================================
