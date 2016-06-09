@@ -217,9 +217,6 @@ a:hover {
 .mx-listview .mx-listview-item:hover {
   /* Styles here */
 }
-.mx-listview .mx-listview-item.selected {
-  color: #333;
-}
 .mx-listview .mx-listview-item.selected:hover {
   /* Styles here */
 }
